@@ -49,14 +49,14 @@
             </div>
 
             </nav>
-            <div  id="" class="uk-height-large " uk-grid>
+            <div  id="" class="uk-height-large uk-padding" uk-grid>
             <div class="uk-width-1-1 uk-backgroud-cover uk-flex uk-flex-center uk-flex-middle uk-background-cover uk-light" data-src="./pexels1.jpeg" uk-img>
                 <h1 style="color : black; font-size : 50px;"> Hello Im DewaDe</h1>
             </div>
             </div>
-                    <div id="scroll-profile" class="uk-child-width-expand@s uk-padding"  uk-grid>
+                    <div id="scroll-profile" class="uk-child-width-large@s"  uk-grid>
             <div class="uk-grid-item-match ">
-                <div class="uk-card uk-card-default uk-card-body">
+                <div class="uk-card uk-card-default ">
                    <img src="./483376.jpg" alt="">
                 </div>
             </div>
@@ -64,9 +64,10 @@
                 <p>
                 Saya adalah orang yang memiliki keinginan untuk menjadi Web Designer yang memiliki kemampuan yang tidak sempurna hanya cukup. Saya adalah atlet Panahan, Semoga Dengan filosofi panahan yang di berikan oleh para senior- senior saya yaitu fokus, rajin , doa, dan usaha yang keras akan mencapai hasil yang maksimal, semoga dengan filosofi ini saya yakin akan sangat berguna nantinya untuk pekerjaan saya dan tentunya untuk masa depan saya. Karena orang tua saya pernah bilang sama saya bahwa usaha dan kerja kerasmu tidak akan pernah menghianati hasilmu.
                 </p>
-            <p uk-margin>
-            <button class="uk-button uk-button-default uk-padding">View</button>
-            <button class="uk-button uk-button-primary uk-padding">Contac</button>
+
+            <p class="uk-padding" uk-margin>
+            <button class="uk-button uk-button-default ">View</button>
+            <button class="uk-button uk-button-primary ">Contac</button>
             </p>
             </div>
         </div>
